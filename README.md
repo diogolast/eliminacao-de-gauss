@@ -52,3 +52,7 @@ A saída de todos os passos do escalonamento será encontrada em out.txt
 0.0  1.0  0.0  1.0  
 0.0  0.0  1.0  3.0
 ```
+
+##Referência
+
+http://people.ucsc.edu/~ptantalo/math21/Winter07/GaussJordan.java
